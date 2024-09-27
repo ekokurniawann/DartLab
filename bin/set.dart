@@ -1,5 +1,3 @@
-import 'dart:math';
-
 void main() {
   // Inisialisasi set
   Set<int> numbers1 = {};
